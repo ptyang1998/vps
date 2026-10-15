@@ -1,0 +1,4 @@
+interface:
+  display_name: "VPS 个人代理部署与维护"
+  short_description: "按现有环境部署或接入个人代理，检查分流与出口，诊断延迟并保留备份恢复路径"
+  default_prompt: "使用 $vps-proxy-workflow 完成我指定的 VPS 接入或维护任务，先检查实际环境、备份配置，再验证生效规则与真实出口。"
